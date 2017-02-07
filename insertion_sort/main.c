@@ -100,7 +100,7 @@ int main()
 	//DisplayCase(Array);
 	Insertion_Sort(Array);
 
-	printf ("This is Bubble sort array\n");
+	printf ("This is Insertion sort array\n");
 	DisplayCase(Array);
 
 	return S_OK;
