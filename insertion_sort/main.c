@@ -21,7 +21,7 @@ int CreateCase(int *pArray, int caselevel)
 	{
 		for (i = 0; i < MAX_NUM; i++)
 		{
-			pArray[i] = i;
+			pArray[i] = i + 1;
 		}
 	}
 	else if (caselevel = ECaseLevelWorst)
